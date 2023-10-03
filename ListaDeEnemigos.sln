@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListadeEnemigos.FE", "ListadeEnemigos.FE\ListadeEnemigos.FE.csproj", "{7A918976-480E-4D40-BF51-018FCCDF0614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaLista.BE", "LaLista.BE\LaLista.BE.csproj", "{F1D208F6-B9E1-4B6A-9DBF-DA5A4E1AD584}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{57D75EE5-7D94-46D5-BC31-A289E781DF53}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A918976-480E-4D40-BF51-018FCCDF0614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A918976-480E-4D40-BF51-018FCCDF0614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A918976-480E-4D40-BF51-018FCCDF0614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A918976-480E-4D40-BF51-018FCCDF0614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D208F6-B9E1-4B6A-9DBF-DA5A4E1AD584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D208F6-B9E1-4B6A-9DBF-DA5A4E1AD584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D208F6-B9E1-4B6A-9DBF-DA5A4E1AD584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D208F6-B9E1-4B6A-9DBF-DA5A4E1AD584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273EF2BA-3D6B-4E39-9B92-292ED3578264}
+	EndGlobalSection
+EndGlobal
